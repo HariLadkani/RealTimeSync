@@ -1,6 +1,6 @@
 # RealTimeSync
 
-RealTimeSync is an advanced Change Data Capture (CDC) pipeline designed to efficiently manage and process real-time data changes from an Amazon RDS database. This project integrates multiple AWS services to ensure accurate and timely data synchronization across systems.
+RealTimeSync is an advanced Change Data Capture (CDC) pipeline designed to efficiently manage and process real-time data changes from an Amazon RDS database. This project integrates multiple AWS services to ensure accurate and timely data synchronization across systems. The Repo is Public and configurations have been shared for anyone to follow with some exceptions.
 
 Overview:
 
