@@ -1,0 +1,3 @@
+Received arguments: {'job_bookmark_option': 'job-bookmark-disable', 'job_bookmark_from': None, 'job_bookmark_to': None, 'JOB_ID': 'j_d49647cdf21e4aaac118298814d931fd546d70eadbb12fc1948bd883c7296c23', 'JOB_RUN_ID': 'jr_0a952b1583a01ce9c495f604e47d4df75767055c98d80588e2f8dd32f70bd514', 'SECURITY_CONFIGURATION': None, 'encryption_type': None, 'enable_data_lineage': None, 'RedshiftTempDir': 's3://aws-glue-assets-851725567765-us-east-1/temporary/', 'TempDir': 's3://aws-glue-assets-851725567765-us-east-1/temporary/', 's3_target_path_key': 'hari_lal/Persons/HW2_ML+%283%29.ipynb', 's3_target_path_bucket': 'hari-lal-full-load-cdc'}
+hari-lal-full-load-cdc
+hari_lal/Persons/HW2_ML+%283%29.ipynb
